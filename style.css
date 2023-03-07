@@ -1,0 +1,371 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif; 
+ 
+        
+        }
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 7%;
+    padding-right: 7%;
+    font-family:Arial;
+}
+.fun{
+    color: blue;
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+    button{
+        
+        background:black;
+        padding: 18px 18px 18px 18px;
+        border-radius: 6px;
+        
+        font-weight: bold;
+        font-size: 15px;
+        margin: 19px ;
+        color: white;
+}
+.min{
+    color: blue;
+    font-weight:54px;
+    font-size: 50px;
+    margin-left: 45%;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.make{
+    margin-left: 100px;
+    font-size: 16px;
+}
+button{
+    margin-right: 40px;
+    padding: 35px,29px,39px,39px;
+    border-radius: 3px;
+
+}
+.image1 img{
+    width: 300px;
+    height: 50vh;
+}
+.image1{
+    margin-left: 50%;
+    margin-top: -160px;
+     padding-bottom: 60px; 
+}
+.dress1 img{
+    width: 300px;
+    height: 60vh;
+    margin-top: -15%;
+    margin-left: 5%;
+                
+}
+.cha3 img{
+    margin-top: -9%;
+    width: 100px;
+    height: 15vh;
+    margin-left: 45%;
+}
+.cha2 img{
+    height: 15vh;
+    width: 100px;
+    margin-left: 65%;
+    margin-top: -18%;
+}
+.royal{
+    font-size: 12px;
+    margin-left: 35%;
+     margin-bottom: -9%; 
+    
+}
+.office{
+margin-left: 58%;
+margin-bottom: -4%;
+font-size: 12px;
+
+
+
+}
+.content{
+    margin-left: 350px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.product{
+    margin-left: 100px;
+    background-color:lightblue;
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.zero1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.prod{
+    font-size: 28px;
+    font-weight: 500;
+}
+.zero2{
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left: 450px;
+    background-color: lightcyan;
+    margin-top: -275px;
+}
+.t0{
+    font-weight: bold;
+    font-size: 60px;
+}
+.assurance{
+    font-size: 28px;
+    font-weight: 500;
+}
+.zero3{
+    width: 250px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left: 800px;
+    background-color:lightsalmon;
+    margin-top: -275px;
+}
+.th{
+    font-weight: bold;
+    font-size: 60px;
+}
+.ecological{
+    font-size: 28px;
+    font-weight: 500;
+}
+.mend{
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 15%;
+    
+}
+.some{
+    margin-left: 70px;
+}
+.on{
+    margin-left: 70px;
+    border-radius: 10%;
+}
+.im1 img{
+    margin-left: 43%;
+    margin-top: -25%;
+    width: 255px;
+    height:50vh;
+}
+.wu img{
+    width: 300px;
+    margin-top: -20%;
+    margin-left: 37%;
+height: 50vh;
+}
+.im6 img{
+    width: 300px;
+    margin-left: 10%;
+    height:50vh;
+}
+.int{
+    color: blue;
+    margin-top: 19%;
+    font-size: 50px;
+    font-weight: 550;
+    margin-left: 20%;
+}
+.cha8 img{
+width: 340px;
+height: 46vh;
+margin-left: 6%;
+margin-top: -10px;
+
+}
+.cha7 img{
+    width: 350px;
+    margin-left: 39%;
+    margin-top: -36%;
+    height: 49vh;
+    padding-bottom: 10px;
+}
+.cha11 img{
+    width: 400px;
+    margin-left:70%;
+    margin-top: -30%;
+    height:52vh;
+    padding-bottom: 20px;
+    
+}
+.arm{
+    margin-top: -29px;
+    font-weight: 600;
+    margin-left: 10%;
+}
+.cal{
+    margin-left: 40%;
+    margin-top: -20px;
+    font-weight: 600;
+}
+.she{
+    margin-left: 75%;
+    margin-top: -20px;
+    font-weight: 600;
+}
+.best{
+    color: blue;
+    margin-top: 12%;
+    font-size: 50px;
+    font-weight: 550;
+    margin-left: 20%;
+}
+.cha12 img{
+    width: 342px;
+    height:40vh;
+    margin-top: 44px;
+    margin-left: 6%;
+}
+.cha13 img{
+    width: 550px;
+    margin-left: 43%;
+    margin-top: -19%;
+    height:50vh;
+    padding-bottom: 63px;
+    
+}
+.cha10 img{
+    width: 567px;
+     margin-top: -1%;
+     height:50vh;
+     margin-left: 6%;
+     
+}
+.cha14 img{
+    width: 400px;
+    margin-left: 55%;
+    margin-top: -450%;
+    height: 53vh;
+    padding-bottom: 20px;
+}
+.now{
+    background-color: whitesmoke;
+    color: black;
+    border: black solid;
+    margin-left: 60%;
+    margin-top: -60%
+}
+.view{
+    margin-left: 35%;
+    margin-top: -5%;
+
+}
+.geto{
+    margin-top: 15%;
+    background-image: url(/images/virender-singh-hE0nmTffKtM-unsplash\ \(1\).jpg);
+    width: 100%;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.sc{
+    font-size: 60px;
+    margin-left: 18%;
+}
+.off{
+    font-size: 60px;
+    margin-left: 18%;
+}
+
+.ema{
+    margin-left: 18%;
+    padding: 30px;
+    padding-left: 200px;
+}
+.rem{
+    color: blue;
+    margin-left: 38%;
+    margin-top: -7%;
+    
+}
+.tur{
+    margin-top: 12%;
+}
+.fu{
+    color: blue;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 10%;
+}
+.little{
+    color: blue;
+    margin-left: 10%;
+}
+.help{
+    color: blue;
+    margin-left: 40%;
+    margin-top: -10%;
+}
+.sup{
+    color: blue;
+    margin-left: 55%;
+    margin-top: -10%;
+
+}
+.add{
+    color: blue;
+    margin-left: 70%;
+    margin-top: -10%;
+}
+.et{
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.tt{
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+}
+.dow{
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+}
+.instagramm{
+    margin-left: 10%;
+
+}
+.twitterr{
+    margin-left: 12%;
+    margin-top: -1.5%;
+}
+.youtubee{
+    margin-left: 14%;
+    margin-top: -1.5%;
+}
+ .last{
+height:70vh;
+width: 5px;
+margin-top: -30px;
+} 
+.im6{
+
+margin-left: 26%;
+
+}
